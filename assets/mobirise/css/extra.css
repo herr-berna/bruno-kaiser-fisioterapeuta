@@ -1,0 +1,29 @@
+.whats {
+    background-color: #25D366 !important;
+    border-color: #25D366 !important;
+}
+
+.whats:hover {
+    background-color: #118B7D !important;
+}
+
+ul.navbar-nav {
+    align-items: center !important;
+}
+
+.fa-whatsapp {
+    font-size: 1.2rem;
+    padding-right: 6px;
+}
+
+.enviar {
+    padding: 1rem 3rem !important;
+}
+
+.telef {
+    font-weight: bold;
+}
+
+#colfone {
+    max-width: 35%;
+}
